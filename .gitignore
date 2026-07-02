@@ -1,18 +1,18 @@
-# Sesi login WhatsApp (JANGAN diupload ke GitHub)
+# Sessions
 chrome_profile/
 
-# File sistem Python
+# Python Cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environment
+# Environments
 venv/
 env/
 .venv/
 
-# File log dan OS
+# Logs & Data
 *.log
 .DS_Store
 pesan.txt
